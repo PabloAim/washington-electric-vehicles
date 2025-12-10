@@ -45,15 +45,20 @@ O Gráfico 6 mostra que o **Model Y** concentrou suas vendas nos anos recentes (
 **De acordo com o Washington State Department of Ecology**: “Os incentivos federais de até US$ 7.500 da Lei de Redução da Inflação, somados a até US$ 4.000 de incentivos estaduais, tornaram os veículos de emissão zero mais acessíveis do que nunca.”
 Esse combo de redução de taxas do governo explica por que 2023 foi o ano em que o Model Y “decolou” no estado.
 
-Fontes:
-https://en.wikipedia.org/wiki/Seattle
-https://www.census.gov/quickfacts/fact/table/seattlecitywashington/EDU685223
-https://ecology.wa.gov/blog/april-2024/a-record-year-for-electric-vehicles-and-plug-in-hybrids-in-washington
-https://www.nbcrightnow.com/news/washington-electric-and-plug-in-vehicle-sales-increased-in-2023/article_d6017f50-d915-543c-9944-36b7873c3480.html
+
+### Dataset (64 MB)
+Arquivo muito grande para o GitHub. Baixe aqui (mesmo usado na análise):  
+→ [Electric_Vehicle_Population_Data.csv](https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/fa51be35-691f-45d2-9f3e-535877965e69)
+
+
+## Fontes
+- Wikipedia - [Seattle](https://en.wikipedia.org/wiki/Seattle)
+- U.S. Census Bureau → [População e renda de Seattle](https://www.census.gov/quickfacts/fact/table/seattlecitywashington/EDU685223)
+- Washington State Department of Ecology (2024) → [Relatório oficial](https://ecology.wa.gov/blog/april-2024/a-record-year-for-electric-vehicles-and-plug-in-hybrids-in-washington)
+- Dataset oficial → [Washington electric and plug-in vehicle sales increased in 2023](https://www.nbcrightnow.com/news/washington-electric-and-plug-in-vehicle-sales-increased-in-2023/article_d6017f50-d915-543c-9944-36b7873c3480.html)
 
 
 ## Gráficos
-
 ![Top 10 Marcas](imagens/top10_marcas.png)
 ![Top 10 Cidades](imagens/top10_cidades.png)
 ![Distribuição por Ano](imagens/distribuicao_ano.png)

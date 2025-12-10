@@ -54,8 +54,8 @@ Link direto:
 ## Fontes
 - Wikipedia - [Seattle](https://en.wikipedia.org/wiki/Seattle)
 - U.S. Census Bureau → [Seattle city, Washington](https://www.census.gov/quickfacts/fact/table/seattlecitywashington/EDU685223)
-- Washington State Department of Ecology (2024) → [A record year for electric and plug-in hybrid vehicles in Washington](https://ecology.wa.gov/blog/april-2024/a-record-year-for-electric-vehicles-and-plug-in-hybrids-in-washington)
 - Dataset oficial → [Washington electric and plug-in vehicle sales increased in 2023](https://www.nbcrightnow.com/news/washington-electric-and-plug-in-vehicle-sales-increased-in-2023/article_d6017f50-d915-543c-9944-36b7873c3480.html)
+- Washington State Department of Ecology (2024) → [A record year for electric and plug-in hybrid vehicles in Washington](https://ecology.wa.gov/blog/april-2024/a-record-year-for-electric-vehicles-and-plug-in-hybrids-in-washington)
 
 
 ## Gráficos
@@ -65,6 +65,7 @@ Link direto:
 ![Evolução Elétrico × Híbrido](imagens/evolucao_eletrico_hibrido.png)
 ![Top 10 Modelos](imagens/top10_modelos.png)
 ![Tesla Model Y por Ano](imagens/model_y_por_ano.png)
+
 
 ## Como rodar
 ```bash

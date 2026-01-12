@@ -99,6 +99,11 @@ Link direto:
 
 ---
 
+### Conclusão Final
+A análise mostra que, em países desenvolvidos, a transição para veículos elétricos não é apenas tendencia, e sim um mercado em fase de consolidação e fortes vendas, impulsionado também por incentivos estaduais. A dominância da Tesla é indiscutível, com 4 carros presentes no top 6, o que mostra que a marca poderia ter grande sucesso no Brasil. Embora o setor teve menores vendas desde 2023, o futuro depende da capacidade das marcas de equilibrar eficiência energética e escalabilidade de mercado.
+
+---
+
 Obrigado por acompanhar meu projeto. Me empenhei muito nele.
 Se você busca um profissional com foco em transformar dados brutos em decisões inteligentes, vamos conversar:
 
